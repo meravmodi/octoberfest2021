@@ -7,4 +7,9 @@ A2. Hurling or Ice Hockey
 Q3. What is the world's fastest racquet sport?
 A3. Badminton
 
-Q3. What is the world's easiest sport?
+Q4. What is the world's easiest sport?
+A4. Running
+
+Q5. In which sport do teams compete to win the Stanley Cup? 
+A5. Men’s ice hockey
+
